@@ -4,6 +4,8 @@
 #include <iostream>
 using namespace std;
 
+// 연산자 오버로딩은 C++에서 제공하는 기본 타입이 아닌 클래스 타입, 즉 사용자 정의 타입
+// 에도 연산자를 사용할 수 있게 하는 문법입니다. 
 int main()
 {
     std::cout << "예제1-1 정수의 +연산\n";
